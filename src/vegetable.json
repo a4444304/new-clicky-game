@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Artichoke",
+    "image": "/assets/images/artichoke.png"
+  },   
+  {
+    "id": 2,
+    "name": "Beets",
+    "image":"/assets/images/beets.png" 
+  },
+  {
+    "id": 3,
+    "name": "Broccoli",
+    "image":"/assets/images/broccoli.png"
+  },
+  {
+    "id": 4,
+    "name": "Cauliflower",
+    "image":"/assets/images/cauliflower.png"
+  },
+  {
+    "id": 5,
+    "name": "Celery",
+    "image":"/assets/images/celery.png"
+  },
+  {
+    "id": 6,
+    "name": "Cucumber",
+    "image":"/assets/images/cucumber.png"
+  },
+  {
+    "id": 7,
+    "name": "Eggplant",
+    "image":"/assets/images/eggplant.png"
+  },
+  {
+    "id": 8,
+    "name": "Green Pepper",
+    "image":"/assets/images/green-pepper.png"
+  },
+  {
+    "id": 9,
+    "name": "Greens",
+    "image":"/assets/images/greens.png"
+  },
+  {
+    "id": 10,
+    "name": "Pumpkin",
+    "image":"/assets/images/pumpkin.png"
+  },
+  {
+    "id": 11,
+    "name": "Radish",
+    "image":"/assets/images/radish.png"
+  },
+  {
+    "id": 12,
+    "name": "Tomatoe",
+    "image":"/assets/images/tomatoe.png"
+  }
+]
